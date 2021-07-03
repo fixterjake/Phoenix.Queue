@@ -1,0 +1,13 @@
+F:\Code\Phoenix\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.dll
+F:\Code\Phoenix\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.pdb
+F:\Code\Phoenix\source\Phoenix.Queue\Phoenix.Queue.Server\obj\Debug\Phoenix.Queue.Server.csprojAssemblyReference.cache
+F:\Code\Phoenix\source\Phoenix.Queue\Phoenix.Queue.Server\obj\Debug\Phoenix.Queue.Server.csproj.CoreCompileInputs.cache
+F:\Code\Phoenix\source\Phoenix.Queue\Phoenix.Queue.Server\obj\Debug\Phoenix.Queue.Server.csproj.CopyComplete
+F:\Code\Phoenix\source\Phoenix.Queue\Phoenix.Queue.Server\obj\Debug\Phoenix.Queue.Server.net.dll
+F:\Code\Phoenix\source\Phoenix.Queue\Phoenix.Queue.Server\obj\Debug\Phoenix.Queue.Server.net.pdb
+F:\Code\Phoenix\resources\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.dll
+F:\Code\Phoenix\resources\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.pdb
+F:\Code\Phoenix\resources\resources\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.dll
+F:\Code\Phoenix\resources\resources\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.pdb
+F:\Code\Phoenix\server\resources\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.dll
+F:\Code\Phoenix\server\resources\[phoenix]\phoenix-queue\Phoenix.Queue.Server.net.pdb
